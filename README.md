@@ -1,5 +1,5 @@
 # HR Analytics Capstone – Employee Attrition Analysis
-**Dataset:** [HR Capstone Dataset]()
+**Dataset:** [HR Capstone Dataset](https://github.com/abhishek-s-shirol/HR_Analytics_Capstone/blob/main/HR_capstone_dataset.csv)
 **Objective:** Understanding key factors influencing employee attrition at **Salifort Motors** and building a predictive model to enhance retention strategies.
 
 ## 📌 Project Overview  
